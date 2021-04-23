@@ -25,7 +25,7 @@ type EpisodesProps = {
   episode: Episode;
 }
 
-export function Episode({ episode }: EpisodesProps) {
+export default function Episode({ episode }: EpisodesProps) {
   return (
     <div className={styles.episode}>
       <div className={styles.thumbnailContainer}>

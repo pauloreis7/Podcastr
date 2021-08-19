@@ -18,7 +18,7 @@
 
 <h4 align="center">🏁 Aplicação já finalizada 🏁</h4>
 
-<p align="center">🎧 Podcastr, Aplicação para barbearia 🔊</p>
+<p align="center">🎧 Podcastr, Aplicação para podcasts 🔊</p>
 
 ## 🔗 Índice
 ---
